@@ -8,7 +8,7 @@
 ### Now building
 - **[SuperSomethingGames](https://supersomethinggames.com)** — flagship games and simulations project.  
 - **[AddressAlarm](https://AddressAlarm.com)** — open, on-device safety notes for drivers and travelers.  
-- **[Custom GPT Wizard](https://chatgpt.com/g/g-DrpPDbvY6-custom-gpt-wizard?model=gpt-5-thinking)** — practical guides and tools for Custom GPT workflows.  
+- **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** — practical guides and tools for Custom GPT workflows.  
 - **[Entrogenics seeds](https://ask.report)** — patterns, models, and meta scale engines for coordination.  
 - **[acid.quest](https://acid.quest)** — disolving reality into symbols and art-i-facts.  
 - **IASIS.quest** — applied systems care: humane interfaces, rituals, and recovery patterns.  
