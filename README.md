@@ -49,4 +49,4 @@
 
 ### Work with me
 Issues and discussions are open. If you want to reuse anything, please do.  
-Credit upstream sources and pass it forward.
+Credit upstream sources and pass it forward 🐬
