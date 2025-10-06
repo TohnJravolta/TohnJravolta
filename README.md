@@ -10,7 +10,7 @@
 - **[AddressAlarm](https://AddressAlarm.com)** — open, on-device safety notes for drivers and travelers.  
 - **[Custom GPT Wizard](https://chatgpt.com/g/g-DrpPDbvY6-custom-gpt-wizard?model=gpt-5-thinking)** — practical guides and tools for Custom GPT workflows.  
 - **[Entrogenics seeds](https://ask.report)** — patterns, models, and meta scale engines for coordination.  
-- **[Turtle Base](https://ko-fi.com/album/Collage-Work-Y8Y0VLVCU)** — playful “portal” collages and simulation motifs for ASK.  
+- **[acid.quest](https://acid.quest)** — Disolving reality into symbols and art-i-facts.  
 - **IASIS.quest** — applied systems care: humane interfaces, rituals, and recovery patterns.  
 
 ### What I do
