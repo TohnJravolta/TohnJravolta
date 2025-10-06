@@ -1,9 +1,9 @@
 # Tohn 🧿 he/him
 
 **Complex Systems Architect**  
-I build ethical simulations and simple coordination tools so communities can test ideas and scale what works 🎯
+⚗️ I synthesize ethical simulations and simple coordination tools so communities can test ideas and scale what works 🎯
 
--☯️-
+## -☯️-
 
 ### Now building
 - **Super Burst** — flagship retro-arcade project (Mystic Flow ~Prelude~).  
