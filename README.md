@@ -5,6 +5,8 @@
 
 ## -☯️-
 
+![oroucoros](Screenshot 2025-10-06 172849.png)
+
 ### Now building
 - **[SuperSomethingGames.com](https://supersomethinggames.com)** — flagship games and simulations project
 - **[AddressAlarm.com](https://AddressAlarm.com)** — open, on-device safety notes for drivers and travelers  
