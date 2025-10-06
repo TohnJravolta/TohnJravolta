@@ -26,15 +26,12 @@
 
 - **AddressAlarm** → AGPL, privacy-first Android app  
   Repo: https://github.com/TohnJravolta/AddressAlarm  
-  Good first issues: https://github.com/TohnJravolta/AddressAlarm/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
-
+ 
 - **Custom_GPT_Wizard** → playbooks for building and improving Custom GPTs  
   Repo: https://github.com/TohnJravolta/Custom_GPT_Wizard  
-  Good first issues: https://github.com/TohnJravolta/Custom_GPT_Wizard/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
 - **Entrogenics** → notes, models, and experiments behind the framework  
   Repo: https://github.com/TohnJravolta/Entrogenics  
-  Good first issues: https://github.com/TohnJravolta/Entrogenics/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 
 ### Principles
 - **Commons first** — open licenses, clear credit, simple rules  
