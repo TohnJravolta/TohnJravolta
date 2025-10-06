@@ -7,7 +7,7 @@
 
 ### Now building
 - **Super Burst** — flagship retro-arcade project (Mystic Flow ~Prelude~).  
-- **AddressAlarm** — open, on-device safety notes for drivers and travelers.  
+- **[AddressAlarm](AddressAlarm.com)** — open, on-device safety notes for drivers and travelers.  
 - **Custom GPT Wizard** — practical guides and tools for Custom GPT workflows.  
 - **Entrogenics seeds** — patterns, models, and meta scale engines for coordination.  
 - **Turtle Base** — playful “portal” collages and simulation motifs for ASK.  
