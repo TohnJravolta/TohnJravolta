@@ -1,6 +1,6 @@
 # Tohn 🧿 he/him
 
-**Complex Systems Architect**  
+**Adaptive Systems Architect**  
 ⚗️ I synthesize ethical simulations and coordination tools so communities can test ideas and scale what works 🎯
 
 ## -☯️-
