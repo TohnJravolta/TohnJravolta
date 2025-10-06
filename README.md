@@ -3,9 +3,9 @@
 **Adaptive Systems Architect**  
 ⚗️ I synthesize ethical simulations and coordination tools so communities can test ideas and scale what works 🎯
 
-## -☯️-
-
 ![oroucoros](Screen_2025-10-06_OUROCOROS.png)
+
+## -☯️-
 
 ### Now building
 - **[SuperSomethingGames.com](https://supersomethinggames.com)** — flagship games and simulations project
