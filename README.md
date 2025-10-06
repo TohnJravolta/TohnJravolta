@@ -19,7 +19,7 @@
 - Ship **docs, handoffs, and licenses** so work can outgrow me
 
 ### Featured projects
-- **Super Burst** → retro arcade with “warp reality” dodge-and-climb flow      
+- **Super Burst** → adaptive retro arcade with “warp reality” dodge-and-climb flow      
   Trailer: https://www.youtube.com/@supersomethinggames  
   Demo: https://supersomethinggames.com/super-burst-demo/
 
@@ -38,6 +38,7 @@
 - **Visible handoffs** — docs, checklists, and maintainer paths
 
 
-### Work with me
-Issues and discussions are open. If you want to reuse anything, please do.  
+### Lets work together
+Issues and discussions are open. If you want to reuse anything, please do 🧬  
 Credit upstream sources and pass it forward 🐬
+The rising tide lifts all ships 🔱
