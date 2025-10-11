@@ -30,8 +30,8 @@
 - **Custom_GPT_Wizard** → playbooks for building and improving Custom GPTs  
   Repo: https://github.com/TohnJravolta/Custom_GPT_Wizard  
 
-- ***Entrogenics*** → notes, models, and experiments behind the framework 🧿 
-  Repo: https://github.com/TohnJravolta/ask.report/tree/main/CORE)  
+- ***Entrogenics*** → notes, models, and experiments behind the framework
+  <br>Repo: https://github.com/TohnJravolta/ask.report/tree/main/CORE) 🧿
 
 ### Principles 🧭
 - **Commons first** — open licenses, clear credit, simple rules  
@@ -39,8 +39,8 @@
 - **Visible handoffs** — docs, checklists, and maintainer paths
 
 
-### Lets work together 🧬
+### Open to co-creation 🦉
 Issues and discussions are open. If you want to reuse anything, please do 🧬  
 Credit upstream sources and pass it forward 🐬
 
-#### The rising tide lifts all ships 🔱
+#### The rising tide lifts all ships ⚕️
