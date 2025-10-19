@@ -20,6 +20,12 @@
 - Ship **docs, handoffs, and licenses** so work can outgrow me
 
 ### Featured projects ⛵
+
+- ***Entrogenics*** → notes, models, and experiments behind the framework  
+Site: https://entogenics.com
+  <br>Repo: https://github.com/TohnJravolta/Entrogenics 🧿
+  
+
 - **Super Burst** → adaptive retro arcade with “warp reality” dodge-and-climb flow      
   Trailer: https://www.youtube.com/@supersomethinggames  
   Demo: https://supersomethinggames.com/super-burst-demo/
@@ -29,9 +35,6 @@
  
 - **Custom_GPT_Wizard** → playbooks for building and improving Custom GPTs  
   Repo: https://github.com/TohnJravolta/Custom_GPT_Wizard  
-
-- ***Entrogenics*** → notes, models, and experiments behind the framework
-  <br>Repo: https://github.com/TohnJravolta/ask.report/tree/main/CORE) 🧿
 
 ### Principles 🧭
 - **Commons first** — open licenses, clear credit, simple rules  
