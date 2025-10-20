@@ -1,12 +1,13 @@
 # Tohn 🧿 he/him
 
-**Adaptive Systems Architect** 🔮 
+**Adaptive Systems Arkhitect** 🔮 
 
 ⚗️ I synthesize ethical simulations and coordination tools so communities can test ideas and scale what works 🎯
 ![oroucoros](Screen_2025-10-06_OUROCOROS.png)
 # -☯️- 
 
 ### Now building 🪄
+- **[Entrogenics.com](https://entrogenics.com)** — researching the nature of adaptive systems
 - **[SuperSomethingGames.com](https://supersomethinggames.com)** — flagship games and simulations project
 - **[AddressAlarm.com](https://AddressAlarm.com)** — open, on-device safety notes for drivers and travelers  
 - **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** — practical guides and tools for Custom GPT workflows
@@ -22,7 +23,7 @@
 ### Featured projects ⛵
 
 - ***Entrogenics*** → notes, models, and experiments behind the framework  
-Site: https://entogenics.com
+Site: https://entrogenics.com
   <br>Repo: https://github.com/TohnJravolta/Entrogenics 🧿
   
 
