@@ -7,13 +7,13 @@
 # -☯️- 
 
 ### Now building 🪄
-- **[Entrogenics.com](https://entrogenics.com)** — researching the nature of adaptive systems
-- **[SuperSomethingGames.com](https://supersomethinggames.com)** — flagship games and simulations project
-- **[AddressAlarm.com](https://AddressAlarm.com)** — open, on-device safety notes for drivers and travelers  
-- **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** — practical guides and tools for Custom GPT workflows
-- **[ask.report](https://ask.report)** — entrogenics, patterns, models, and meta scale engines for coordination
-- **[acid.quest](https://acid.quest)** — disolving reality into symbols and art-i-facts
-- **IASIS.quest** — applied systems care: humane interfaces, rituals, and recovery patterns
+- **[Entrogenics.com](https://entrogenics.com)** ~ researching the nature of adaptive systems
+- **[SuperSomethingGames.com](https://supersomethinggames.com)** ~ flagship games and simulations project
+- **[AddressAlarm.com](https://AddressAlarm.com)** ~ open, on-device safety notes for drivers and travelers  
+- **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** ~ practical guides and tools for Custom GPT workflows
+- **[ask.report](https://ask.report)** ~ entrogenics, patterns, models, and meta scale engines for coordination
+- **[acid.quest](https://acid.quest)** ~ disolving reality into symbols and art-i-facts
+- **IASIS.quest** ~ applied systems care: humane interfaces, rituals, and recovery patterns
 
 ### What I do ♻️
 - Translate research into **reusable patterns** and **tiny protocols**  
@@ -38,9 +38,9 @@ Site: https://entrogenics.com
   Repo: https://github.com/TohnJravolta/Custom_GPT_Wizard  
 
 ### Principles 🧭
-- **Commons first** — open licenses, clear credit, simple rules  
-- **Small engines** — minimal tools that chain together  
-- **Visible handoffs** — docs, checklists, and maintainer paths
+- **Commons first** ~ open licenses, clear credit, simple rules  
+- **Small engines** ~ minimal tools that chain together  
+- **Visible handoffs** ~ docs, checklists, and maintainer paths
 
 
 ### Open to co-creation 🦉
