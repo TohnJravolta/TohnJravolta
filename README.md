@@ -17,8 +17,8 @@
 
 ### What I do ♻️
 - Translate research into **reusable patterns** and **tiny protocols**  
-- Prototype **ethical reality simulations** to explore options safely  
-- Ship **docs, handoffs, and licenses** so work can outgrow me
+- Prototype **ethical simulations** to explore options safely  
+- Ship **apps, docs, and handoffs** so work can outgrow me
 
 ### Featured projects ⛵
 
