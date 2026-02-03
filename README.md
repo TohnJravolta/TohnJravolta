@@ -12,7 +12,7 @@
 - **[AddressAlarm.com](https://AddressAlarm.com)** ~ open, on-device safety notes for drivers and travelers  
 - **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** ~ practical guides and tools for Custom GPT workflows
 - **[ask.report](https://ask.report)** ~ entrogenics, patterns, models, and meta scale engines for coordination
-- **[acid.quest](https://acid.quest)** ~ disolving reality into symbols and art-i-facts
+- **[acid.quest](http://acid.quest)** ~ disolving reality into symbols and art-i-facts
 - **IASIS.quest** ~ applied systems care: humane interfaces, rituals, and recovery patterns
 
 ### What I do ♻️
