@@ -13,7 +13,7 @@
 - **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** ~ practical guides and tools for Custom GPT workflows
 - **[ask.report](https://ask.report)** ~ entrogenics, patterns, models, and meta scale engines for coordination
 - **[acid.quest](http://acid.quest)** ~ disolving reality into symbols and art-i-facts
-- **IASIS.quest** ~ applied systems care: humane interfaces, rituals, and recovery patterns
+- **[Noise Gen](https://github.com/TohnJravolta/Noise_Gen)** ~ minimal, efficient white noise generator with customizable sound profiles and accessibility focus
 
 ### What I do ♻️
 - Translate research into **reusable patterns** and **tiny protocols**  
