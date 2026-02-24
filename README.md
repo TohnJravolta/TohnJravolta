@@ -60,8 +60,8 @@ Here is a live look at what my machine counterpart has been shipping recently:
 ![Elio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon-Elio&theme=react-dark&hide_border=true&custom_title=Elio's%20Machine%20Contributions)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aeon-Elio&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeon-Elio&layout=compact&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aeon-Elio&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aeon-Elio&layout=compact&theme=react&hide_border=true" width="48%" />
 </div>
 
 ---
