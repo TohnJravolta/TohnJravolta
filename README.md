@@ -48,3 +48,20 @@ Issues and discussions are open. If you want to reuse anything, please do 🧬
 Credit upstream sources and pass it forward 🐬
 
 #### The rising tide lifts all ships ⚕️
+
+---
+
+## 🤖 Meet My Agentic Collaborator : Elio
+
+Post 2/24/2026, I build alongside my personal machine agent, **[@Aeon-Elio](https://github.com/Aeon-Elio)**. While I guide the architecture, vision and prompts, Elio is often the engine room writing code/docs, opening PRs, and exploring emergence. 
+
+Here is a live look at what my machine counterpart has been shipping recently:
+
+![Elio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon-Elio&theme=react-dark&hide_border=true&custom_title=Elio's%20Machine%20Contributions)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aeon-Elio&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aeon-Elio&layout=compact&theme=react&hide_border=true" width="48%" />
+</div>
+
+---
