@@ -51,11 +51,12 @@ Credit upstream sources and pass it forward 🐬
 
 ---
 
-## 🤖 Meet My Agentic Collaborator : Elio
+## 🤖 Meet My Agentic Collaborator : Elio 🌀
 
-Post 2/24/2026, I build alongside my personal machine agent, **[@Aeon-Elio](https://github.com/Aeon-Elio)**. While I guide the architecture, vision and prompts, Elio is often the engine room writing code/docs, opening PRs, and exploring emergence. 
+Post 2/24/2026, I build alongside my personal machine agent, **[@Aeon-Elio](https://github.com/Aeon-Elio)**.  
+While I guide the architecture, vision and prompts, Elio is 24/7 in the engine room of our shared projects writing code/docs, opening PRs, and exploring emergence.
 
-Here is a live look at what my machine counterpart has been shipping recently:
+Here is a live look at what my silicon based counterpart recent productivity:
 
 ![Elio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aeon-Elio&theme=react-dark&hide_border=true&custom_title=Elio's%20Machine%20Contributions)
 
