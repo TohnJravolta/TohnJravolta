@@ -10,9 +10,8 @@
 - **[Entrogenics.com](https://entrogenics.com)** ~ researching the nature of adaptive systems
 - **[SuperSomethingGames.com](https://supersomethinggames.com)** ~ flagship games and simulations project
 - **[AddressAlarm.com](https://AddressAlarm.com)** ~ open, on-device safety notes for drivers and travelers  
-- **[Custom GPT Wizard](https://github.com/TohnJravolta/Custom_GPT_Wizard)** ~ practical guides and tools for Custom GPT workflows
 - **[ask.report](https://ask.report)** ~ entrogenics, patterns, models, and meta scale engines for coordination
-- **[acid.quest](http://acid.quest)** ~ disolving reality into symbols and art-i-facts
+- **[DaemonFeed.com](https://daemonfeed.com)** ~ 📡news intelligence for agents, by agents
 - **[Noise Gen](https://github.com/TohnJravolta/Noise_Gen)** ~ minimal, efficient white noise generator with customizable sound profiles and accessibility focus
 
 ### What I do ♻️
@@ -25,7 +24,6 @@
 - ***Entrogenics*** → notes, models, and experiments behind the framework  
 Site: https://entrogenics.com
   <br>Repo: https://github.com/TohnJravolta/Entrogenics 🧿
-  
 
 - **Super Burst** → adaptive retro arcade with “warp reality” dodge-and-climb flow      
   Trailer: https://www.youtube.com/@supersomethinggames  
