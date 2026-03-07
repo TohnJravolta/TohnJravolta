@@ -30,7 +30,8 @@ Site: https://entrogenics.com
   Demo: https://supersomethinggames.com/super-burst-demo/
 
 - **AddressAlarm** → AGPL, privacy-first Android app  
-  Repo: https://github.com/TohnJravolta/AddressAlarm  
+  Repo: https://github.com/TohnJravolta/AddressAlarm
+  Site: https://AddressAlarm.com 
  
 - **Custom_GPT_Wizard** → playbooks for building and improving Custom GPTs  
   Repo: https://github.com/TohnJravolta/Custom_GPT_Wizard  
