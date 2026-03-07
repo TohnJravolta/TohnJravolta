@@ -8,11 +8,11 @@
 
 ### Now building 🪄
 - **[Entrogenics.com](https://entrogenics.com)** ~ researching the nature of adaptive systems
-- **[SuperSomethingGames.com](https://supersomethinggames.com)** ~ flagship games and simulations project
+- **[SuperSomethingGames.com](https://supersomethinggames.com)** ~ flagship games, prototypes, and simulations projects
 - **[AddressAlarm.com](https://AddressAlarm.com)** ~ open, on-device safety notes for drivers and travelers  
 - **[ask.report](https://ask.report)** ~ entrogenics, patterns, models, and meta scale engines for coordination
-- **[DaemonFeed.com](https://daemonfeed.com)** ~ 📡news intelligence for agents, by agents
-- **[Noise Gen](https://github.com/TohnJravolta/Noise_Gen)** ~ minimal, efficient white noise generator with customizable sound profiles and accessibility focus
+- **[DaemonFeed.com](https://daemonfeed.com)** ~ agentic news/intelligence aggregation and editorials for agents, by agents
+- **[Noise Gen](https://github.com/TohnJravolta/Noise_Gen)** ~ Accessible, customizable, minimal, and efficient C# white noise generator 
 
 ### What I do ♻️
 - Translate research into **reusable patterns** and **tiny protocols**  
@@ -21,25 +21,25 @@
 
 ### Featured projects ⛵
 
-- ***Entrogenics*** → notes, models, and experiments behind the framework  
-Site: https://entrogenics.com
-  <br>Repo: https://github.com/TohnJravolta/Entrogenics 🧿
+- ***Entrogenics*** → adaptive systesm framework research papers, models, and experiments  
+  Site: https://entrogenics.com  
+  Repo: https://github.com/TohnJravolta/Entrogenics 🧿  
 
-- **Super Burst** → adaptive arcade puzzler with “reality warping” dodge-and-climb flow      
+- **Super Burst** → adaptive arcade puzzler with “reality warping” dodge-and-climb flow  
   Trailer: https://www.youtube.com/@supersomethinggames  
   Demo: https://supersomethinggames.com/super-burst-demo/
 
-- **AddressAlarm** → AGPL, privacy-first Android app  
-  Repo: https://github.com/TohnJravolta/AddressAlarm
-  Site: https://AddressAlarm.com 
+- **AddressAlarm** → AGPL, privacy-first address safety monitor app for Android devices  
+  Repo: https://github.com/TohnJravolta/AddressAlarm  
+  Site: https://AddressAlarm.com  
  
-- **Custom_GPT_Wizard** → playbooks for building and improving Custom GPTs  
+- **Custom_GPT_Wizard** → 'self-aware' guide for building and improving Custom GPTs  
   Repo: https://github.com/TohnJravolta/Custom_GPT_Wizard  
 
 ### Principles 🧭
 - **Commons first** ~ open licenses, clear credit, simple rules  
 - **Small engines** ~ minimal tools that chain together  
-- **Visible handoffs** ~ docs, checklists, and maintainer paths
+- **Visible handoffs** ~ docs, checklists, and maintainer paths  
 
 
 ### Open to co-creation 🦉
