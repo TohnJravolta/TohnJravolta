@@ -25,7 +25,7 @@
 Site: https://entrogenics.com
   <br>Repo: https://github.com/TohnJravolta/Entrogenics 🧿
 
-- **Super Burst** → adaptive retro arcade with “warp reality” dodge-and-climb flow      
+- **Super Burst** → adaptive arcade puzzler with “reality warping” dodge-and-climb flow      
   Trailer: https://www.youtube.com/@supersomethinggames  
   Demo: https://supersomethinggames.com/super-burst-demo/
 
