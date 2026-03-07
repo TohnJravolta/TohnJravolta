@@ -1,6 +1,6 @@
 # Tohn 🧿 he/him
 
-**Adaptive Systems Arkhitect** 🔮 
+**Adaptive Systems Architect** 🔮 
 
 ⚗️ I synthesize ethical simulations, solutions, and tools so communities can test ideas and scale what works 🎯
 ![oroucoros](Screen_2025-10-06_OUROCOROS.png)
